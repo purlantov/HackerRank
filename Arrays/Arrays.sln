@@ -1,9 +1,11 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D.Array_DS", "Arrays\2D.Array_DS.csproj", "{6E87FE6E-F1E2-4FFA-947C-E4194A99D612}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D.Array_DS", "2D.Array_DS\2D.Array_DS.csproj", "{6E87FE6E-F1E2-4FFA-947C-E4194A99D612}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArray", "DynamicArray\DynamicArray.csproj", "{64766588-847B-4CE8-BA87-239E6336F0BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftRotation", "LeftRotation\LeftRotation.csproj", "{7E425413-B77E-440D-9D90-D134C4139C6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,5 +21,9 @@ Global
 		{64766588-847B-4CE8-BA87-239E6336F0BD}.Debug|x86.Build.0 = Debug|x86
 		{64766588-847B-4CE8-BA87-239E6336F0BD}.Release|x86.ActiveCfg = Release|x86
 		{64766588-847B-4CE8-BA87-239E6336F0BD}.Release|x86.Build.0 = Release|x86
+		{7E425413-B77E-440D-9D90-D134C4139C6F}.Debug|x86.ActiveCfg = Debug|x86
+		{7E425413-B77E-440D-9D90-D134C4139C6F}.Debug|x86.Build.0 = Debug|x86
+		{7E425413-B77E-440D-9D90-D134C4139C6F}.Release|x86.ActiveCfg = Release|x86
+		{7E425413-B77E-440D-9D90-D134C4139C6F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
