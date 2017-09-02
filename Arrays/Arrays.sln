@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicArray", "DynamicArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeftRotation", "LeftRotation\LeftRotation.csproj", "{7E425413-B77E-440D-9D90-D134C4139C6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparseArrays", "SparseArrays\SparseArrays.csproj", "{81E61C69-353F-419E-8CFF-90E94C1B3602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulation", "ArrayManipulation\ArrayManipulation.csproj", "{5458C3E8-26E8-4F4B-AABC-A77608184A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "123", "123\123.csproj", "{5F183280-A746-43A0-9E3E-C11E0250D585}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +31,17 @@ Global
 		{7E425413-B77E-440D-9D90-D134C4139C6F}.Debug|x86.Build.0 = Debug|x86
 		{7E425413-B77E-440D-9D90-D134C4139C6F}.Release|x86.ActiveCfg = Release|x86
 		{7E425413-B77E-440D-9D90-D134C4139C6F}.Release|x86.Build.0 = Release|x86
+		{81E61C69-353F-419E-8CFF-90E94C1B3602}.Debug|x86.ActiveCfg = Debug|x86
+		{81E61C69-353F-419E-8CFF-90E94C1B3602}.Debug|x86.Build.0 = Debug|x86
+		{81E61C69-353F-419E-8CFF-90E94C1B3602}.Release|x86.ActiveCfg = Release|x86
+		{81E61C69-353F-419E-8CFF-90E94C1B3602}.Release|x86.Build.0 = Release|x86
+		{5458C3E8-26E8-4F4B-AABC-A77608184A7D}.Debug|x86.ActiveCfg = Debug|x86
+		{5458C3E8-26E8-4F4B-AABC-A77608184A7D}.Debug|x86.Build.0 = Debug|x86
+		{5458C3E8-26E8-4F4B-AABC-A77608184A7D}.Release|x86.ActiveCfg = Release|x86
+		{5458C3E8-26E8-4F4B-AABC-A77608184A7D}.Release|x86.Build.0 = Release|x86
+		{5F183280-A746-43A0-9E3E-C11E0250D585}.Debug|x86.ActiveCfg = Debug|x86
+		{5F183280-A746-43A0-9E3E-C11E0250D585}.Debug|x86.Build.0 = Debug|x86
+		{5F183280-A746-43A0-9E3E-C11E0250D585}.Release|x86.ActiveCfg = Release|x86
+		{5F183280-A746-43A0-9E3E-C11E0250D585}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

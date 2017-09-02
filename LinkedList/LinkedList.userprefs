@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CEA23E37-D9B1-4A16-A6B1-E1B5702C55DA}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrintTheElementsOfALinkedList/Program.cs">
+    <Files>
+      <File FileName="PrintTheElementsOfALinkedList/Program.cs" Line="9" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PrintTheElementsOfALinkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
